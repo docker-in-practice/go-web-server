@@ -4,10 +4,7 @@ import (
 	"fmt"
 	"net/http"
 	"flag"
-    //"bufio"
-    //"io"
     "io/ioutil"
-    //"os"
 )
 
 //Server port
